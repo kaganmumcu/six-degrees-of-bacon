@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+main.ipynb
+
+# IMDb Data Files - These are too large for GitHub.
+*.tsv.gz
