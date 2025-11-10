@@ -16,7 +16,7 @@ Follow these steps to get the project running on your local machine.
 ### 1. Clone the Repository
 First, clone this repository to your computer:
 ```bash
-git clone https://github.com/SENIN-KULLANICI-ADIN/SENIN-REPO-ADIN.git
+git clone https://github.com/kaganmumcu/six-degrees-of-bacon.git
 cd SENIN-REPO-ADIN```
 
 ### 2. Create and Activate a Virtual Environment
